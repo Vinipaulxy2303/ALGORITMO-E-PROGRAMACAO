@@ -1,7 +1,7 @@
 Algoritmo "DESAFIO-01"
-// Disciplina  : Algoritmo e Lógica de Programação
-// Professor   : André Olímpio
-// Descrição   : Desafio 1 - UniLibrary, sistema de gerenciamento de biblioteca
+// Disciplina  : Algoritmo e LÃ³gica de ProgramaÃ§Ã£o
+// Professor   : AndrÃ© OlÃ­mpio
+// DescriÃ§Ã£o   : Desafio 1 - UniLibrary, sistema de gerenciamento de biblioteca
 // Autor(a)    : Vinicius de Paulo Garcia
 // Data atual  : 11/10/2026
 
@@ -729,4 +729,5 @@ fimprocedimento
 Inicio
    inicializar
    menu
+
 Fimalgoritmo
