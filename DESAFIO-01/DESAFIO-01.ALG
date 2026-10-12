@@ -729,5 +729,4 @@ fimprocedimento
 Inicio
    inicializar
    menu
-
 Fimalgoritmo
